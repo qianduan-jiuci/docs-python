@@ -21,24 +21,12 @@ export default () => ({
             link: "/syntax/operators"
         },
         {
-            text: "控制流程",
+            text: "程序控制流程",
             link: "/syntax/control"
         },
         {
-            text: "循环",
-            link: "/syntax/loop",
-        },
-        {
-            text: "函数",
-            link: "/syntax/function",
-        },
-        {
-            text: "字典",
-            link: "/syntax/dict",
-        },
-        {
-            text: "集合",
-            link: "/syntax/map"
+            text: "迭代器和生成器",
+            link: "/syntax/iter&gener"
         }
     ]
 } as DefaultTheme.Sidebar)
